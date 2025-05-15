@@ -9,16 +9,17 @@ This repository contains code implementing the automated gas sampling algorithm 
 > Published by BRGM, 2023.  
 > [DOI: 10.1016/j.ohx.2021.e00208](https://doi.org/10.1016/j.ohx.2021.e00208)
 
+the project was coded by a student as part of an assignment for the Purpan engineering school. 
+Please understand that the code is adapted to their request and need, it is perfectible and must be adapted for your needs 
+if you want to implement the electronic system described in the article. 
+
 ---
 
 ## ⚙️ Features
 
 - Automated sampling of soil gases (CO₂, CH₄, O₂)
-- Remote control and communication via GSM
-- Programmable sampling intervals
-- Weather sensor integration
-- Data export for lab analysis (GC and spectrometry)
-- Solar power support for field deployment
+- control and communication via UBS
+- Logs 
 
 ---
 
@@ -36,9 +37,9 @@ This repository contains code implementing the automated gas sampling algorithm 
 If you use this repository or the algorithm it implements in your own work, please cite the original publication:
 
 ```bibtex
-@article{amro2023automated,
-  title = {Automated Soil Gas Sampling System for Monitoring Gas Emissions from Carbon Capture and Storage (CCS) Sites and Natural Analogues},
-  author = {Amro, M. and Baudin, F. and Bataille, M. and Delpech, F. and De Backer, R. and Lecomte, C. and Munier, L. and Mouginot, D. and de Lary, L.},
+@article{berry2021automated,
+  title = {An open-source, automated, gas sampling peripheral for laboratory incubation experiments using cavity ring-down spectroscopy},
+  author = {Berry, Timothy D. and Creelman, Chance and Nickerson, Nick and Enders, Akio and Whitman, Thea},
   journal = {HardwareX},
   volume = {10},
   pages = {e00208},
