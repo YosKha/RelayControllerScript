@@ -11,7 +11,7 @@ This repository contains code implementing the automated gas sampling algorithm 
 
 the project was coded by a student as part of an assignment for the Purpan engineering school. 
 Please understand that the code is adapted to their request and need, it is perfectible and must be adapted for your needs 
-if you want to implement the electronic system described in the article. 
+if you want to implement the code of the electronic system described in the article. 
 
 ---
 
@@ -37,9 +37,9 @@ if you want to implement the electronic system described in the article.
 If you use this repository or the algorithm it implements in your own work, please cite the original publication:
 
 ```bibtex
-@article{berry2021automated,
+@article{berry2021automated-gas-sampling-peripheral,
   title = {An open-source, automated, gas sampling peripheral for laboratory incubation experiments using cavity ring-down spectroscopy},
-  author = {Berry, Timothy D. and Creelman, Chance and Nickerson, Nick and Enders, Akio and Whitman, Thea},
+  author = {Timothy D. Berry, Chance Creelman, Nick Nickerson, Akio Enders, Akio and Whitman, Thea Whitman},
   journal = {HardwareX},
   volume = {10},
   pages = {e00208},
